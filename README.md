@@ -1,4 +1,4 @@
-# ♠️ Project Pixels Art Trybe ♠️
+# 🎨 Project Pixels Art Trybe 🎨
 ## 🇧🇷 PT-BR
 Olá pessoa, tudo bem ?  
 Aqui você encontra uma serie de códigos feitos por mim para o projeto Pixels Art criado durante meu curso na Trybe.  
